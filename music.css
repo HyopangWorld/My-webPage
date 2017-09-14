@@ -1,0 +1,34 @@
+ul.menu{
+  border-style: double;
+  list-style-image: url("http://itemimgs.naver.com/personacon/72/8/2920872.gif");
+  font-size: 18px;
+}
+a:link{
+  text-decoration: none;
+  color: black;
+}
+a:visited{
+  text-decoration: none;
+  color: black;
+}
+a:active {
+   color : red;
+   text-decoration : underline;
+ }
+ul.text{
+  font-size: 20px;
+}
+html{
+  background-image: url("http://postfiles13.naver.net/20160611_76/wsed0501_1465618590030eFAxd_JPEG/%B9%E8%B0%E6%C8%AD%B8%E92.jpg?type=w1");
+   font-family: 'MD개성체';
+   background-position: center;
+   background-size: 95%;
+   background-attachment: fixed;
+}
+table.photo1{
+  margin-top: 80px;
+}
+pre{
+   font-family: 'MD개성체';
+   font-size: 14pt;
+}

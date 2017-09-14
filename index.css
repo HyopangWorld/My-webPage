@@ -1,0 +1,23 @@
+td.menu{
+  padding: 15px;
+  background-color: none;
+}
+td.a{
+  padding: 15px;
+  background-color: white;
+}
+hr{
+  color: pink;
+}
+a:link{
+  text-decoration: none;
+  color: #3c84c8;
+}
+a:visited{
+  text-decoration: none;
+  color: #3c84c8;
+}
+html{
+  font-family: 'MD개성체';
+  background-color: #fffbe7;
+}
